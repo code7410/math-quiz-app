@@ -52,6 +52,6 @@ total_time = round(end_time - start_time, 2)
 print(f"\n{name}, your score is {score}/5")
 print(f"Time taken: {total_time} seconds")
 
-# Save score to file (optional)
+# Save score to file 
 with open("score_log.txt", "a") as file:
     file.write(f"{name} scored {score}/5 in {total_time} seconds at {level} level\n")
