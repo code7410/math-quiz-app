@@ -13,10 +13,10 @@ A Python console app that asks random math questions, tracks score and time, and
 
 ---
 
-## 📂 Files
+## 📁 Files
 
-- `math_quiz_app.py` — Main Python file  
-- `score_log.txt`  — Score tracker
+- [`math_quiz_app.py`](./math_quiz_app.py) — Main Python file  
+- [`score_log.txt`](./score_log.txt) — Score tracker
 
 ---
 
