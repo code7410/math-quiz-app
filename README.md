@@ -1,6 +1,10 @@
+# About Me
+
+I'm Aayan, a Year 9 student learning to code with Python. This is one of my first complete projects, and I built it to understand how logic, loops, user interaction and file saving work together.
+
 # 🧮 Math Quiz App
 
-A Python console app that asks random math questions, tracks score and time, and logs results to a file. Designed and built by me during his early Python learning journey.
+A Python console application that generates random math questions, tracks the user's score, time taken, and selected difficulty level (easy, medium, hard), and logs the results to a text file.
 
 ---
 
