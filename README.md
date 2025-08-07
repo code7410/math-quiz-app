@@ -16,7 +16,7 @@ A Python console app that asks random math questions, tracks score and time, and
 ## 📂 Files
 
 - `math_quiz_app.py` — Main Python file  
-- `score_log.txt` *(optional)* — Score tracker
+- `score_log.txt`  — Score tracker
 
 ---
 
