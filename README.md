@@ -1,6 +1,6 @@
 # 🧮 Math Quiz App
 
-A Python console app that asks random math questions, tracks score and time, and logs results to a file. Designed and built by **Aayan** during his early Python learning journey.
+A Python console app that asks random math questions, tracks score and time, and logs results to a file. Designed and built by me during his early Python learning journey.
 
 ---
 
@@ -20,7 +20,7 @@ A Python console app that asks random math questions, tracks score and time, and
 
 ---
 
-## 📈 What Aayan Learned
+## 📈 What I Learned
 
 - Python basics: `input()`, `for loop`, `if/else`, `random`, `time`
 - How to structure a program logically
