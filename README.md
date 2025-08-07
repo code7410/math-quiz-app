@@ -28,4 +28,4 @@ A Python console app that asks random math questions, tracks score and time, and
 
 ---
 
-✨ _This was Aayan’s first Python project. More coming soon!_
+✨ _This is my first Python project. More coming soon!_
