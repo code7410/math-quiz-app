@@ -13,7 +13,7 @@ A Python console application that generates random math questions, tracks the us
 - Generates 5 random addition problems  
 - Takes user input and checks correctness  
 - Tracks score and total time taken  
-- Optionally logs results to a `.txt` file
+- Logs results to a `.txt` file
 
 ---
 
