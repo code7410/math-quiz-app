@@ -32,4 +32,4 @@ A Python console application that generates random math questions, tracks the us
 
 ---
 
-✨ _This is my first Python project. More coming soon!_
+✨ This is my first Python project. More coming soon!_
